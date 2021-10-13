@@ -1,0 +1,14 @@
+.box {
+  background-color: orange;
+  height: 50px;
+  line-height: 50px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.demo {
+  color: #000000;
+}
+.demo1 {
+  color: aliceblue;
+}
